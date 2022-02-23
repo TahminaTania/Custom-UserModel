@@ -1,0 +1,8 @@
+
+
+IntegrityError at /admin/crud/profiles/4/change/
+FOREIGN KEY constraint failed
+
+
+
+##when i am trying to edit from admin ...
