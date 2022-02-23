@@ -6,3 +6,6 @@ FOREIGN KEY constraint failed
 
 
 ##when i am trying to edit from admin ...
+
+
+Ans:The best way to tackle this is to drop the table and remove all migration files and then re run the migrations with your newly made custom model. Hope this will work.
